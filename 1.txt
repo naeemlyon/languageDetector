@@ -1,0 +1,2 @@
+hello every body, i am writing a program using dictionary techniques in natural language processing.
+That's all
